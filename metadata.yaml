@@ -1,0 +1,30 @@
+_repo: Missionary-Travels-and-Researches-in-South-Africa_1039
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Livingstone, David
+    alias: Livingston, David
+    birthdate: 1813
+    deathdate: 1873
+    gutenberg_agent_id: '519'
+    url: http://www.gutenberg.org/2009/agents/519
+    wikipedia: http://en.wikipedia.org/wiki/David_Livingstone
+description: ''
+gutenberg_bookshelf:
+- Africa
+- South Africa
+gutenberg_issued: '2006-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1039'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missions -- South Africa'
+- !lcc 'DT'
+- !lcsh 'South Africa -- Description and travel'
+- GITenberg
+title: Missionary Travels and Researches in South Africa
+url: http://www.gutenberg.org/ebooks/1039
