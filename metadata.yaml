@@ -1,5 +1,8 @@
 _repo: Missionary-Travels-and-Researches-in-South-Africa_1039
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Livingstone, David
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/519
     wikipedia: http://en.wikipedia.org/wiki/David_Livingstone
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1039#Missionary-Travels-and-Researches-in-South-Africa
 gutenberg_bookshelf:
 - Africa
 - South Africa
